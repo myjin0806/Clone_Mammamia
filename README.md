@@ -6,7 +6,7 @@
 > 2024.08.22(8시간)
 
 ## 배포 주소
-> [Mammamia](https://myjin0806.github.io/Clone_Mammamia/)
+> [Mammamia](https://myjin0806.github.io/clone_mammamia/)
 
 | DESKTOP                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------- |
